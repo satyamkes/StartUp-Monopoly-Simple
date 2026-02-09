@@ -1,0 +1,1 @@
+// Deprecated. Types are not used in JS version.
